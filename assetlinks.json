@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.afg.ebank",
+    "sha256_cert_fingerprints":
+    ["DA:E6:CF:54:EB:A8:3D:B1:30:86:E2:E3:9B:CC:75:81:71:D0:7C:93:7E:D4:0B:BE:2A:F4:99:5E:19:56:56:EE"]
+  }
+}]
